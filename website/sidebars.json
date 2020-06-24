@@ -1,0 +1,18 @@
+{
+  "docs": {
+    "Introduction": [
+      "about"
+    ],
+    "API Routes": [
+      "reference"
+    ]
+  },
+  "docs-other":{
+    "Introduction": [
+      "about"
+    ],
+    "API Routes": [
+      "reference"
+    ]
+  }
+}
